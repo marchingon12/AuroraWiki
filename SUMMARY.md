@@ -23,3 +23,8 @@
 
 * [Anonymous Logins](references/anonymous-logins.md)
 
+## Spoofing
+
+* [Device](spoofing/device.md)
+* [Location](spoofing/location.md)
+
