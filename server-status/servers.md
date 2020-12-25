@@ -22,5 +22,3 @@ description: Check out the current server status.
 \*\*\*\*🧙♂**Tip**: Refresh the page to refresh the cached status. For real-time status monitoring, visit our Uptimerobot page.
 {% endhint %}
 
-
-
