@@ -26,7 +26,7 @@ Some poorly-designed apps detect if Google Play is missing and punish the user b
 
 #### **Is it safe to use Aurora store?**
 
-Aurora is fully open-source and verified by F-Droid. If you're asking about the safety of the apps in the store, those are parsed from the same place the Play Store would parse from. A lot of dangerous stuff seems to sneak past Google though, so as a rule of thumb, don't download anything which you're unsure about.
+Aurora Store is fully open-source and verified by F-Droid. If you're asking about the safety of the apps in the store, those are the exact same ones the Play Store would load and display. A lot of dangerous stuff seems to sneak past Google though, so as a rule of thumb, don't download anything which you're unsure about.
 
 #### **What data does** _**Aurora Store**_ **send to Google?**
 
@@ -40,10 +40,10 @@ To provide basic functionalities, the following is sent:
 For anonymous logins, following data is sent to Aurora Dispenser Server:
 
 * a GET request to obtain a authentication token. This token is generated server side so no user data is leaked. All the requests are made to Google from the Dispenser Server's IP.
-* Aurora OSS follows a strict policy of no-logging, so no data is stored on the Dispenser Server.
+* AuroraOSS follows a strict policy of no-logging, so no data is stored on the Dispenser Server.
 
 {% hint style="info" %}
-\*\*\*\*👀 **Tip:** For more info read​ Anonymous Logins.
+\*\*\*\*👀**Tip:** For more info read​ Anonymous Logins.
 {% endhint %}
 
 {% page-ref page="../references/anonymous-logins.md" %}
@@ -118,6 +118,10 @@ _Aurora Services_ will NOT work if it is not installed as a system app.
 2. Grant the required permissions & whitelist Aurora Store in the services app.
 3. Set installation method in the Aurora Store settings to Aurora Services \(Settings &gt; Installations &gt; Installation method &gt; Aurora Services\).
 
+{% hint style="warning" %}
+**Note:** Aurora Services is deprecated since the realease of Aurora Store version 4. However, it is still usable with Aurora Store v3.
+{% endhint %}
+
 #### **Can Aurora Download and install Split or Bundled APKs?**
 
 Yes, it can install both with or without root.
@@ -127,7 +131,7 @@ Yes, it can install both with or without root.
 Go to [POEditor](https://poeditor.com/join/project/54swaCpFXJ) and inform the developer when done.
 
 {% hint style="info" %}
-\*\*\*\*❗ **Note**: The developer typically keeps track of translations progress, but it's possible that I missed a contribution. If you don't receive a reply, please remind him!\)​
+**Note**: The developer typically keeps track of translations progress, but it's possible that I missed a contribution. If you don't receive a reply, please remind him!\)​
 {% endhint %}
 
 #### **Why are the versions on F-Droid and XDA labs outdated? When will they be updated?**
