@@ -9,8 +9,8 @@
 
 ## Spoofing
 
-* [Device](spoofing/device.md)
-* [Location](spoofing/location.md)
+* [Device 📱](spoofing/device.md)
+* [Location 🗺](spoofing/location.md)
 
 ## Server status
 
