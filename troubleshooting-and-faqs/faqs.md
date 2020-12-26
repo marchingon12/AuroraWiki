@@ -26,7 +26,7 @@ Some poorly-designed apps detect if Google Play is missing and punish the user b
 
 #### **Is it safe to use Aurora store?**
 
-Aurora is fully open-source and verified by F-Droid. If you're asking about the safety of the apps in the store, those are parsed from the same place the Play Store would parse from. A lot of dangerous stuff seems to sneak past Google though, so as a rule of thumb, don't download anything which you're unsure about.
+Aurora Store is fully open-source and verified by F-Droid. If you're asking about the safety of the apps in the store, those are the exact same ones the Play Store would load and display. A lot of dangerous stuff seems to sneak past Google though, so as a rule of thumb, don't download anything which you're unsure about.
 
 #### **What data does** _**Aurora Store**_ **send to Google?**
 
@@ -40,10 +40,10 @@ To provide basic functionalities, the following is sent:
 For anonymous logins, following data is sent to Aurora Dispenser Server:
 
 * a GET request to obtain a authentication token. This token is generated server side so no user data is leaked. All the requests are made to Google from the Dispenser Server's IP.
-* Aurora OSS follows a strict policy of no-logging, so no data is stored on the Dispenser Server.
+* AuroraOSS follows a strict policy of no-logging, so no data is stored on the Dispenser Server.
 
 {% hint style="info" %}
-\*\*\*\*👀 **Tip:** For more info read​ Anonymous Logins.
+\*\*\*\*👀**Tip:** For more info read​ Anonymous Logins.
 {% endhint %}
 
 {% page-ref page="../references/anonymous-logins.md" %}
@@ -60,7 +60,7 @@ If due to some reasons primary token dispenser gone DOWN/OFFLINE & you are unabl
 
 Steps:
 
-1. Go to Settings -&gt; Networks -&gt; Enable custom tokenizer​
+1. Go to Settings &gt; Networks &gt; Enable custom tokenizer​
 2. Enter the following Tokenizer URL:​ http://www.auroraoss.in:8080
 3. Now try logging back in as Anonymous 
 
@@ -76,7 +76,7 @@ If you do happen to get your Google account banned, you can try appealing, which
 
 #### **How do I purchase paid apps without using the Play Store app?**
 
-Purchase the apps from the [Google Play website](https://play.google.com/store), then log in using your own account in _Aurora Store_ to download them.
+Purchase the apps from the [Google Play website](https://play.google.com/store), then log in using your own account in _Aurora Store_ to download and install them.
 
 #### **Can Aurora store verify licenses?**
 
@@ -106,9 +106,9 @@ _Aurora Store_ can install apps in 3 ways:
 
 1. Install _Aurora Services_ \(preferably to the system\).
 2. Open _Aurora Services_ and follow the initial set-up instructions
-3. Open _Aurora Services_' settings and choose Aurora Services it as an install method.
+3. Open _Aurora Services_ settings and choose Aurora Services it as an install method.
 
-You don't need to give _Aurora Store_ system or root permissions; _Aurora Services_ handles all install and uninstall requests in the background, which is why it has to be installed as a system app. Get Aurora Services from [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)
+You don't need to give _Aurora Store_ system or root permissions; _Aurora Services_ handles all install and uninstall requests in the background, which is why it has to be installed as a system app. Get Aurora Services [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases).
 
 #### **How to give** _**Aurora Services**_ **system permissions?**
 
@@ -117,6 +117,10 @@ _Aurora Services_ will NOT work if it is not installed as a system app.
 1. If you have Magisk installed then simply download the zip file from [GitLab](https://gitlab.com/AuroraOSS/AuroraServices/-/releases) and flash via Magisk. If magisk is not installed then you can either install the 'magisk-unity' zip file via TWRP \(root access is not needed\) or manually push `AuroraServices.apk` to `/system/priv-app` and `permissions_com.aurora.services.xml` to `/system/etc/permissions/` \(This needs root access!\).
 2. Grant the required permissions & whitelist Aurora Store in the services app.
 3. Set installation method in the Aurora Store settings to Aurora Services \(Settings &gt; Installations &gt; Installation method &gt; Aurora Services\).
+
+{% hint style="warning" %}
+**Note:** Aurora Services is deprecated since the release of Aurora Store version 4. However, it is still usable with Aurora Store v3.
+{% endhint %}
 
 #### **Can Aurora Download and install Split or Bundled APKs?**
 
@@ -127,7 +131,7 @@ Yes, it can install both with or without root.
 Go to [POEditor](https://poeditor.com/join/project/54swaCpFXJ) and inform the developer when done.
 
 {% hint style="info" %}
-\*\*\*\*❗ **Note**: The developer typically keeps track of translations progress, but it's possible that I missed a contribution. If you don't receive a reply, please remind him!\)​
+**Note**: The developer typically keeps track of translations progress, but it's possible that I missed a contribution. If you don't receive a reply, please remind him!
 {% endhint %}
 
 #### **Why are the versions on F-Droid and XDA labs outdated? When will they be updated?**
