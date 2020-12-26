@@ -22,9 +22,9 @@ New UI for a new version 😸
 
 \[Info has been closed for now.\]​
 
-#### ⏳ Major Token Dispenser API changes and exclusive use for \_Aurora Store\_ only!​
+#### ⏳ Major Token Dispenser API changes and exclusive use for _Aurora Store_ only!​
 
 We have seen major issues while observing the main server, and it seems like it has been overloaded with high CPU usages during version 3 recently. Thus, the developer has been trying to counter this with a solution.​
 
-After this build has been released, the way token dispensers work will be much different than it is now, which is to help reduce the workload of the main server. The main dispenser server will also now be available for \_Aurora Store\_ only. This should help lower the chances of server downsides and faster loading times.​
+After this build has been released, the way token dispensers work will be much different than it is now, which is to help reduce the workload of the main server. The main dispenser server will also now be available for _Aurora Store_ only. This should help lower the chances of server downsides and faster loading times.​
 
