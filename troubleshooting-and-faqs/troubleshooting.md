@@ -51,15 +51,15 @@ Simply spoofing to another device configuration should help solve this problem.
 
 Bundled apps can't be installed on OEM ROMs due to shameless mods like \(VirusCheck, Tracker Stats, etc.\).
 
-Workarounds:
+Pick **one** of these workarounds:
 
-1. Turn off vendor optimizations \(like MIUI Optimizations\) \[OR\]
-2. Enable "Enforce Native Installer" from Aurora-&gt;Settings-&gt;Installations. \[OR\]
+1. Turn off vendor optimizations \(like MIUI Optimizations\)
+2. Enable "Enforce Native Installer" from Aurora &gt; Settings &gt; Installations.
 3. Use root installation method
 
 #### **Problems with downloading apps**
 
-This problem may be due to your download path. Sometimes Android has issues with allowing read/write permissions for apps when external storage gets involved and this can affect Aurora Store as well. To fix this, you can toggle 'Download apps in internal storage' in Settings &gt; Downloads.
+This problem may be due to your download path. Sometimes Android has issues with allowing read/write permissions for apps when external storage gets involved and this can affect Aurora Store as well. To fix this, you can toggle "Download apps in internal storage" in Settings &gt; Downloads.
 
 #### **Updates tab doesn't show apps but searching the app shows update.**
 
