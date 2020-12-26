@@ -21,3 +21,4 @@ description: Check out the current server status.
 {% hint style="info" %}
 **🧙‍♂️ Tip**: Refresh the page to refresh the cached status. For real-time status monitoring and history, visit our Uptimerobot page.
 {% endhint %}
+
