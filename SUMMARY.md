@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home  🏠](README.md)
+* [Home 🏠](README.md)
 
 ## Troubleshooting & FAQs
 

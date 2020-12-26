@@ -2,7 +2,7 @@
 description: Welcome to the Aurora Store Wiki!
 ---
 
-# Home  🏠
+# Home 🏠
 
 ![](.gitbook/assets/aurorawiki_banner.png)
 
