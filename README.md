@@ -4,7 +4,7 @@ description: Welcome to the Aurora Store Wiki!
 
 # Home  🏠
 
-![](.gitbook/assets/app_src_main_res_mipmap-xxxhdpi_ic_launcher_round.png)
+![](.gitbook/assets/aurorawiki_banner.png)
 
 ### **Why create** _**Aurora Store**_**?**
 
