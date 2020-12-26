@@ -8,13 +8,13 @@ description: Check out the current server status.
 {% tab title="auroraoss.com:8080" %}
 | Status | Uptime \(Last 30 days\) |
 | :---: | :---: |
-| [![Website](https://img.shields.io/website?url=http%3Aauroraoss.com%3A8080)](http://auroraoss.com:8080) | [![Uptime Robot ratio \(30 days\)](https://img.shields.io/uptimerobot/ratio/m786651508-fad67a53ecfca2d106edc6d0)](https://stats.uptimerobot.com/D6QpBHB11l) |
+| [![Website auroraoss.com:8080](https://img.shields.io/website-up-down-green-red/http/auroraoss.com:8080.svg)](http://auroraoss.com:8080) | [![Uptime Robot ratio \(30 days\)](https://img.shields.io/uptimerobot/ratio/m786651508-fad67a53ecfca2d106edc6d0)](https://stats.uptimerobot.com/D6QpBHB11l) |
 {% endtab %}
 
 {% tab title="auroraoss.in:8080" %}
 | Status | Uptime \(Last 30 days\) |
 | :---: | :---: |
-| [![Website](https://img.shields.io/website?url=http%3A%2F%2Fauroraoss.in%3A8080)](http://auroraoss.in:8080) | [![Uptime Robot ratio \(30 days\)](https://img.shields.io/uptimerobot/ratio/m786651524-7fd4fe056ae1389d3157b60d)](https://stats.uptimerobot.com/D6QpBHB11l) |
+| [![Website auroraoss.in:8080](https://img.shields.io/website-up-down-green-red/http/auroraoss.in:8080.svg)](http://auroraoss.in:8080) | [![Uptime Robot ratio \(30 days\)](https://img.shields.io/uptimerobot/ratio/m786651524-7fd4fe056ae1389d3157b60d)](https://stats.uptimerobot.com/D6QpBHB11l) |
 {% endtab %}
 {% endtabs %}
 
