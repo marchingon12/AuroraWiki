@@ -4,7 +4,7 @@ description: Try shooting your problems with these easy steps!
 
 # Troubleshooting 🔫
 
-#### **Installing/updating Google Chrome or Google/Android System WebView responds with "incompatible app"!**
+### **Installing/updating Google Chrome or Google/Android System WebView responds with "incompatible app"!**
 
 If you are using Android 10+ \(Q and above\), both of these apps are not easy to install/update. Basically, Google messed things up and gave Android users more work to do.
 
@@ -22,7 +22,7 @@ You can download the stable Trichrome library from apkmirror [here](https://www.
 
 Read more about Trichrome on the Chromium Shared Libraries [documentation](https://chromium.googlesource.com/chromium/src.git/+/master/docs/android_native_libraries.md).
 
-#### **My exported device info won't work in spoofing!**
+### **My exported device info won't work in spoofing!**
 
 Most likely the platforms property in the export file is missing. This sometimes happens while exporting on some devices. The only way to fix this is to manually input a new line with the content below:
 
@@ -32,7 +32,7 @@ Platforms = arm64-v8a, armeabi-v7a, armeabi
 
 Remember to check what architecture your device supports! You can easily check it with either of these apps: [CPU-Z](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z&hl=en&gl=US), [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck&hl=en&gl=US), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro&hl=en&gl=US) or just search for your device on [GSMArena](https://www.gsmarena.com/). DO NOT just copy-paste the line above and blame us if it doesn't work.
 
-#### **I have a Huawei device and I can't log in!**
+### **I have a Huawei device and I can't log in!**
 
 Chances are that you have a device running Android that was originally shipped without Google support. To the best of our knowledge, this includes:
 
@@ -47,7 +47,7 @@ Chances are that you have a device running Android that was originally shipped w
 
 Simply spoofing to another device configuration should help solve this problem.
 
-#### **Installation fails without warning post downloads.**
+### **Installation fails without warning post downloads.**
 
 Bundled apps can't be installed on OEM ROMs due to shameless mods like \(VirusCheck, Tracker Stats, etc.\).
 
@@ -57,27 +57,27 @@ Pick **one** of these workarounds:
 2. Enable "Enforce Native Installer" from Aurora &gt; Settings &gt; Installations.
 3. Use root installation method
 
-#### **Problems with downloading apps**
+### **Problems with downloading apps**
 
 This problem may be due to your download path. Sometimes Android has issues with allowing read/write permissions for apps when external storage gets involved and this can affect Aurora Store as well. To fix this, you can toggle "Download apps in internal storage" in Settings &gt; Downloads.
 
-#### **Updates tab doesn't show apps but searching the app shows update.**
+### **Updates tab doesn't show apps but searching the app shows update.**
 
 \[Will write once info is confirmed\]
 
-#### **Unable to export device info.**
+### **Unable to export device info.**
 
 \[Will write once info is confirmed\]
 
-#### **Why do I have two** _**Aurora Store**_ **apps after installing the new builds?**
+### **Why do I have two** _**Aurora Store**_ **apps after installing the new builds?**
 
 This might be due to the fact that you have older versions of Aurora Store installed instead of version 3, which is a completely new rewrite that comes with a new package name. You can uninstall the older one or keep it if you want.
 
-#### **The categories tab shows "No apps blacklisted".**
+### **The categories tab shows "No apps blacklisted".**
 
 This is a bug in `v.3.2.9` that has been noted. For some people it works, for some it doesn't.
 
-#### **Not working whatsoever.**
+### **Not working whatsoever.**
 
 Check if you are using the latest Stable build `v.3.2.9` or Nightly builds. For some reason some people have reported issues while installing `v.2.0.5` from third-party sources like Softonic and Uptodown.
 
