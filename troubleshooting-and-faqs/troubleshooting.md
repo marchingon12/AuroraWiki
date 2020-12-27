@@ -4,7 +4,7 @@ description: Try shooting your problems with these easy steps!
 
 # Troubleshooting 🔫
 
-### **Installing/updating Google Chrome or Google/Android System WebView responds with "incompatible app"!**
+### **Installing/updating Google Chrome or Google/Android System WebView responds with "Incompatible app"!**
 
 If you are using Android 10+ \(Q and above\), both of these apps are not easy to install/update. Basically, Google messed things up and gave Android users more work to do.
 
