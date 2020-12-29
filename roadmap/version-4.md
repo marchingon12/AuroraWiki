@@ -28,3 +28,7 @@ We have seen major issues while observing the main server, and it seems like it 
 
 After this build has been released, the way token dispensers work will be much different than it is now, which is to help reduce the workload of the main server. The main dispenser server will also now be available for _Aurora Store_ only. This should help lower the chances of server downsides and faster loading times.​
 
+### ⏳ Add new device configurations for spoofing​
+
+In this build, a few more device configs with newer versions of Android will be added for device spoofing, as some are rather outdated. This gives users the opportunity to install e.g. apps with features exclusively for Android 11, but not for your device. \(Note that you have to have the same Android version for those features to work!\)​
+
