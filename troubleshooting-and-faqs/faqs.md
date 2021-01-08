@@ -56,14 +56,6 @@ Nope. _Aurora Store_ can log you in with a dummy account that is stored in the t
 
 The token dispenser is a server which provides login credentials to Aurora Store for Anonymous Logins. You can check the current status of the token dispenser servers [here](https://gitlab.com/AuroraOSS/AuroraStore/-/wikis/Server-status) or by using `/status` in the Telegram group.
 
-If due to some reasons primary token dispenser gone DOWN/OFFLINE & you are unable to login, then please enable the secondary token dispenser URL for the time being.
-
-Steps:
-
-1. Go to Settings &gt; Networks &gt; Enable custom tokenizer​
-2. Enter the following Tokenizer URL:​ http://www.auroraoss.in:8080
-3. Now try logging back in as Anonymous 
-
 If you would like to create and host your own token dispenser server, check out the source code [here](https://github.com/whyorean/AuroraDispenser).
 
 ### **Why would I use my own account? Is it safe?**

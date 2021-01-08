@@ -4,6 +4,20 @@ description: Try shooting your problems with these easy steps!
 
 # Troubleshooting 🔫
 
+### **Failed to Build API**
+
+If due to some reason the primary token dispenser has gone DOWN/OFFLINE & you are unable to login, then please enable the secondary token dispenser URL for the time being.​
+
+**Steps:**
+
+1. Go to Settings -&gt; Networks -&gt; Enable custom tokenizer​​**.**
+2. Enter the secondary token dispenser server URL:​ http://www.auroraoss.in:8080​
+3. Now try logging back in as Anonymous​
+
+{% hint style="info" %}
+**Note**: This does not apply to anyone using their own Google account.
+{% endhint %}
+
 ### **Installing/updating Google Chrome or Google/Android System WebView responds with "Incompatible app"!**
 
 If you are using Android 10+ \(Q and above\), both of these apps are not easy to install/update. Basically, Google messed things up and gave Android users more work to do.
