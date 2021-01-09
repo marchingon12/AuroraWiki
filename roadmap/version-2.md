@@ -6,7 +6,9 @@ description: Getting there...
 
 **Legend:** ✅ = Completed​ \| ⏳= Work In Progress​ \|❓= Unknown Stage​​
 
-![Aurora Store v2 screenshot taken from Reddit](../.gitbook/assets/wh08ch49ffi11.jpg)
+![screenshot taken from Reddit](../.gitbook/assets/wh08ch49ffi11.jpg)
+
+![](../.gitbook/assets/photo_2021-01-09_15-50-46.jpg)
 
 ### ✅ Add Device/Language/Country Spoof Option to allow accessing GeoRestricted Apps​
 
