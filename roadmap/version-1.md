@@ -22,7 +22,13 @@ Aurora Store was formerly called the Galaxy Store \(not to be mixed up with Sams
 
 ### ✅ Device spoofing
 
+Pretend to be a different device! With device spoofing you can unlock apps which are only available to certain devices e.g. Pixel Launcher for Pixel.
+
 ### ✅ Google & Anonymous sign-in
 
+Anonymous sign-ins let you download and install apps from the Google Play Store without having to own a Google account. Google sign-ins let you download your paid apps.
+
 ### **✅ Delta updates**
+
+Delta updates only downloads changes during updates while normal updates will download the whole .apk file.
 
