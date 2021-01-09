@@ -1,5 +1,5 @@
 ---
-description: The backbones.
+description: The barebones of Aurora Store.
 ---
 
 # version 1

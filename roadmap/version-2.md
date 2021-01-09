@@ -1,5 +1,5 @@
 ---
-description: Getting there...
+description: A better version of Galaxy Store - Aurora Store!
 ---
 
 # version 2
@@ -18,13 +18,15 @@ description: Getting there...
 
 
 
-### ✅ Add Device/Language/Country Spoof Option to allow accessing GeoRestricted Apps​
+### ✅ Added Location spoofing to allow accessing Geo-restricted Apps​
 
-
+Apps that are Geo-restricted like banking apps, library apps etc. can now be downloaded by spoofing your own location along with a VPN service! The boundaries are no more!
 
 ### ✅ Add Filter to exclude Non-Market, F-Droid & Guardian Project Apps​
 
+Filter out apps that are downloaded from outside the Play Store / Google repository so that you don't get meaningless updates when updating your apps. F-Droid and some others will have their own keys and sign .apk files with a different signature, so installing/updating those apps through Aurora Store will not work.
 
+### ✅ New UI throughout whole app
 
-### ✅ Refactor complete project to AndroidX​
+Refresh of the old Galaxy Store for Aurora Store, giving a material, Google-like design.
 
