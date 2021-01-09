@@ -14,7 +14,7 @@ description: Check out the current server status.
 {% tab title="auroraoss.com:6969" %}
 | Status | Uptime \(Last 30 days\) |
 | :---: | :---: |
-| [![Website auroraoss.com:6969](https://img.shields.io/uptimerobot/status/m786868089-ab51e679bd687fd43b25e9fa)](https://auroraoss.com:6969) | [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m786868089-ab51e679bd687fd43b25e9fa)](https://stats.uptimerobot.com/D6QpBHB11l) |
+| [![Website auroraoss.com:6969](https://img.shields.io/uptimerobot/status/m786868089-ab51e679bd687fd43b25e9fa)](https://auroraoss.com:6969) | [![Uptime Robot ratio \(30 days\)](https://img.shields.io/uptimerobot/ratio/m786868089-ab51e679bd687fd43b25e9fa)](https://stats.uptimerobot.com/D6QpBHB11l) |
 {% endtab %}
 
 {% tab title="auroraoss.in:8080" %}
