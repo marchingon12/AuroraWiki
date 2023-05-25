@@ -37,6 +37,7 @@
 
 ## References
 
+* [AuroraOSS Site Policy](references/auroraoss-site-policy.md)
 * [Anonymous Logins](references/anonymous-logins.md)
 * [Aurora Store ToS](references/aurora-store-tos.md)
 * [Aurora Store Privacy Policy](references/aurora-store-privacy-policy.md)

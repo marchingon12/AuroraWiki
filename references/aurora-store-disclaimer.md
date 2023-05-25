@@ -25,7 +25,7 @@ You hold yourself accountable if you are to use Aurora Store with your personal 
 
 > #### §2 Your Use of Google Play​
 >
-> **Disabled Accounts.** If Google disables access to your account in accordance with the Terms (for example if you materially or repeatedly violate the Terms), you may be prevented from accessing Google Play, your account details or any files or other Content that is stored with your account. See the Help Center for more information. If you are the family manager of a family on Google Play and Google disables access to your account, your family members may lose access to family features requiring a family group, such as a family payment method, family subscriptions, or Content shared by family members. If you are a family member of a family on Google Play and Google disables your account, your family members will lose access to Content you have shared with them.​
+> **Disabled Accounts.** If Google disables access to your account in accordance with the Terms (for example if you violate the Terms), you may be prevented from accessing Google Play, your account details or any files or other Content that is stored with your account. See the [Help Center](https://support.google.com/accounts/answer/40695?hl=en) for more information. If you are the family manager of a family on Google Play and Google disables access to your account, your family members may lose access to family features requiring a family group, such as a family payment method, family subscriptions, or Content shared by family members. If you are a family member of a family on Google Play and Google disables your account, your family members will lose access to Content you have shared with them.
 
 ### 2. Installing Aurora Store from third-party sources.
 
@@ -38,13 +38,13 @@ You are to hold yourself responsible by installing Aurora Store from other sourc
 
 ### 3. Links in Aurora Store
 
-**AuroraOSS**, makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern. The only links we provide are:​
+**AuroraOSS**, makes no claim or representation regarding, and accepts no responsibility for, third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern. The only links we provide are:​
 
-* **Donation links** Bitcoin, Bitcoin Cash, Etherum, BHIM-UPI, PayPal & Liberapay links​
-* Repository sources GitLab repository link​
-* xda-developers Aurora Store xda-developers thread
-* Telegram Aurora Support group link​
-* F-Droid Aurora Store in F-Droid repository link​
+* **Donation links:** Bitcoin, Bitcoin Cash, Etherum, BHIM-UPI, PayPal & Liberapay&#x20;
+* **Repository sources:** GitLab repository
+* **xda-developers:** Aurora Store xda-developers thread
+* **Telegram:** Aurora Support group&#x20;
+* **F-Droid:** Aurora Store in F-Droid repository&#x20;
 
 ### 4. Content
 
