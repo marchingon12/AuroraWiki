@@ -20,21 +20,26 @@ The trichrome library is split into 4 variants, just like Google Chrome: Stable,
 
 To install Chrome and WebView variants, follow the steps below:
 
-1. Firstly, download the trichrome library apk variant that you plan to install.
-2. Install the apk onto your device.
+1. Firstly, download the Trichrome Library APK variant that you plan to install.
+2. Install the APK onto your device.
 3. Try updating your Chrome/WebView with Aurora Store again.
 
-You can download the stable Trichrome library from [apkmirror](https://www.apkmirror.com/apk/google-inc/trichrome-library/#variants).
+You can download the stable Trichrome library from APKMirror:&#x20;
 
-Read more about Trichrome on the Chromium Shared Libraries [documentation](https://chromium.googlesource.com/chromium/src.git/+/master/docs/android\_native\_libraries.md).
+{% embed url="https://www.apkmirror.com/apk/google-inc/trichrome-library/#variants" %}
+
+Read more about Trichrome on the Chromium Shared Libraries documentation:
+
+{% embed url="https://chromium.googlesource.com/chromium/src.git/+/master/docs/android_native_libraries.md" %}
 
 #### **Why do I have two Aurora Store apps after installing the new builds?**
 
-This might be due to the fact that you have sub-versions of Aurora Store (Alpha, Beta & Nightly) installed instead of Aurora Store version 4 **Stable**, which all come with corresponding package names. You can uninstall those or keep them if you want.
+This might be due to the fact that you have sub-versions of Aurora Store (Stable, F-Droid & Nightly) installed instead of Aurora Store version 4 **Stable**, which all come with corresponding package names and signed signatures. You can uninstall those or keep them if you want.
 
 ### Login Problems
 
-*   **"BadRequest"** → I have a Huawei device and I can't log in!
+*   **"BadRequest"** → I have a Huawei device and I can't log in!\
+
 
     Chances are that you have a device running Android that was originally shipped without Google support. To the best of our knowledge, this includes:
 
@@ -47,15 +52,19 @@ This might be due to the fact that you have sub-versions of Aurora Store (Alpha,
     * Huawei Nova 7i, 7 SE
     * Huawei Matepad T8, Pro 5g
 
-    Simply spoofing to another device configuration with the same architecture (e.g. arm64-v8a, armeabi-v7a, armeabi) and better yet, same Target Android Runtime APIs (API30: Android 11, API29: Android 10, API28: Android 9, etc.) should help solve this problem.
-*   **"Timeout"** → I can't login because of internet connection.
+    Simply spoofing to another device configuration with the same architecture (e.g. arm64-v8a, armeabi-v7a, armeabi) and better yet, same Target Android Runtime APIs (API30: Android 11, API29: Android 10, API28: Android 9, etc.) should help solve this problem.\
 
-    When network connection is either blocked or network speed is too slow (Aurora Store only waits for 20 sec for an authentication request). If there is no response from Google's servers, then there will be multiple timeouts.
-*   **"Oops! You have been rate-limited!"** → I clicked on Anonymous button too many times!
+*   **"Timeout"** → I can't log in because of internet connection.\
+
+
+    When network connection is either blocked or network speed is too slow (Aurora Store only waits for 20 sec for an authentication request). If there is no response from Google's servers, then there will be multiple timeouts.\
+
+*   **"Oops! You have been rate-limited!"** → I clicked on Anonymous button too many times!\
+
 
     You are rate-limited after trying to sign in anonymously after 20 concurrent retries within an hour. Rate-limiting lasts for an hour. Going over the 20 request per hour limit means an additional hour will be added for every additional 20 requests (20r/h: 1h, 40r/h: 2h, 60r/h: 3h, etc.). If you are rate-limited, wait for an hour before logging in again.
 
-    Our current rate looks like this:in
+    Our current rate looks like this:
 
 | Requests/time (r/t) | Rate-limited | Banned |
 | :-----------------: | :----------: | :----: |
@@ -81,12 +90,15 @@ You may not be able to disable MIUI Optimizations through developer options anym
 
 ### **"Getting Metadata - Downloads failed, could not fetch files"**
 
-*   **Check that you have a strong Wi-Fi or mobile data connection**
+*   **Check that you have a strong Wi-Fi or mobile data connection**\
+
 
     First, make sure you have a strong internet connection. It’s best if you can connect to a Wi-Fi network. If you don’t have access to Wi-Fi, make sure you have a strong mobile data connection. Then try your download again.
 
-    Get more help with connection problems on Android devices.
-*   **Clear the cache & data of the Aurora Store**
+    Get more help with connection problems on Android devices.\
+
+*   **Clear the cache & data of the Aurora Store**\
+
 
     This gives the app a fresh start and can help fix issues.
 
@@ -95,8 +107,10 @@ You may not be able to disable MIUI Optimizations through developer options anym
     3. Scroll down and tap Aurora Store.
     4. Tap **Storage** → **Clear Cache**.
     5. Next, tap **Clear data**.
-    6. Re-open the Aurora Store & try your download again.
-*   **Restart your device**
+    6. Re-open the Aurora Store & try your download again.\
+
+*   **Restart your device**\
+
 
     If you still can’t download after you clear the cache & data of Aurora Store, restart your device.
 
