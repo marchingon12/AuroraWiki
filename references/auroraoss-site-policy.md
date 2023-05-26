@@ -1,5 +1,6 @@
 ---
 description: Important information regarding our website's policy
+layout: landing
 ---
 
 # AuroraOSS Site Policy

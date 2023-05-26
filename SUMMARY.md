@@ -39,7 +39,7 @@
 
 * [Android App Types](guides/android-app-types.md)
 * [System App Guide](guides/system-app-guide.md)
-* [Generating accounts](guides/generating-accounts.md)
+* [Generating accounts](references/generating-accounts.md)
 
 ## References
 
