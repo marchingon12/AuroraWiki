@@ -126,9 +126,11 @@ Some beta apps can be accessed by using the Beta sign-up button on apps that hav
 
 ### **Geo-locked app**
 
-There is a high possibility that the app you are looking for is geo-locked, meaning it is not accessible either in your country or because the anonymous account you are using has its locale setting to any country other than yours. Read the Location section under the FAQ page.
+There is a high possibility that the app you are looking for is geo-locked, meaning it is not accessible either in your country or because the anonymous account you are using has its locale setting to any country other than yours. Read the **Spoofing** > **Location** section under the Aurora Store FAQ page.
 
-
+{% content-ref url="faqs/aurora-store.md" %}
+[aurora-store.md](faqs/aurora-store.md)
+{% endcontent-ref %}
 
 ### **Device-specific app**
 
