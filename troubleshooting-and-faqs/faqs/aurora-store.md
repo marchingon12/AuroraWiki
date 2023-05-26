@@ -31,7 +31,7 @@ Aurora Store is fully open-source and verified by F-Droid. If you're asking abou
 Similar to Aurora Store v3, version 4 of Aurora Store is rewritten from scratch, but now in Kotlin language. This means that each and every feature and UI elements needs to be implemented accordingly. With new features, bugs come popping up every now and then, bit & pieces to improve while keeping it as stable as possible. As you can see, this takes time and effort so please have some patience!
 
 {% hint style="info" %}
-**Tip:** You can check out the [Roadmap ](broken-reference)page to know more about what has changed, removed and added to the newest version of Aurora Store!
+**Tip:** You can check out the [Roadmap ](../../our-apps/aurora-store/roadmap/)page to know more about what has changed, removed and added to the newest version of Aurora Store!
 {% endhint %}
 
 **Why do I need to accept the Terms Of Service for Aurora Store?**
