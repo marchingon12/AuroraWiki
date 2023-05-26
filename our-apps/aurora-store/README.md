@@ -66,6 +66,7 @@ As per [**Google Play Terms of Service §4**](https://play.google.com/intl/en-us
 ### Credits
 
 * [whyorean](https://gitlab.com/whyorean/) (Rahul Patel) for making the app.
+* [gupta\_aayush ](https://t.me/gupta\_aayush)(Aayush Gupta) for further app development.
 * [RKBDI](https://github.com/RadekBledowski) (Radek Błędowski) for UI/UX Design.
 
 ### Support
