@@ -58,17 +58,7 @@ For more information about AABs, read the official guide on [Android Developers]
 |     By using AAB, developers can significantly reduce the app's download size on users' devices, as only the necessary resources are included in the generated APKs.     |                         Unlike AAB, which is a single file, split APKs are multiple APK files that need to be managed separately.                         |
 |          Google Play's dynamic delivery feature also enables on-demand downloads for specific features or languages, further reducing the initial download size.         | Split APKs are typically used when distributing apps through alternative app stores or when creating custom distribution channels outside of Google Play. |
 
-In summary, AAB is a publishing format that optimizes app distribution by dynamically generating optimized APKs based on device configurations, while Split APKs modularize an app into multiple APKs to reduce the initial download size and allow selective downloading of features or modules. AAB is mainly associated with Google Play, while Split APKs are more commonly used outside of the official app store ecosystem.\
-\
-Split APKs:
-
-* Split APKs are a way of modularizing an app into multiple APK files, each containing a specific feature or asset.
-* The app's code, resources, and assets are divided into separate APKs, and each split APK represents a different module or feature of the app.
-* Split APKs are primarily used to reduce the initial download size of an app and allow users to download only the required components.
-* Unlike AAB, which is a single file, split APKs are multiple APK files that need to be managed separately.
-* Split APKs are typically used when distributing apps through alternative app stores or when creating custom distribution channels outside of Google Play.
-
-In summary, AAB is a publishing format that optimizes app distribution by dynamically generating optimized APKs based on device configurations, while Split APKs modularize an app into multiple APKs to reduce the initial download size and allow selective downloading of features or modules. AAB is mainly associated with Google Play, while Split APKs are more commonly used outside the official app store ecosystem.
+In summary, AAB is a publishing format that optimizes app distribution by dynamically generating optimized APKs based on device configurations, while Split APKs modularize an app into multiple APKs to reduce the initial download size and allow selective downloading of features or modules. AAB is mainly associated with Google Play, while Split APKs are more commonly used outside of the official app store ecosystem.
 
 ### Android Legacy Expansions (XAPKs)
 
