@@ -1,8 +1,9 @@
 ---
+description: Privacy policy for Aurora Store
 layout: landing
 ---
 
-# Aurora Store Privacy Policy
+# Privacy Policy
 
 ### User data sent to Google by default
 

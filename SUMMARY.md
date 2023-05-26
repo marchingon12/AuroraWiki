@@ -10,6 +10,9 @@
     * [version 3](our-apps/aurora-store/roadmap/version-3.md)
     * [version 2](our-apps/aurora-store/roadmap/version-2.md)
     * [version 1](our-apps/aurora-store/roadmap/version-1.md)
+  * [Terms of Service](our-apps/aurora-store/terms-of-service.md)
+  * [Disclaimer](our-apps/aurora-store/disclaimer.md)
+  * [Privacy Policy](our-apps/aurora-store/privacy-policy.md)
 * [Aurora Droid](our-apps/aurora-droid.md)
 * [App Warden](our-apps/app-warden.md)
 * [Aurora Wallpapers](our-apps/aurora-wallpapers.md)
@@ -30,7 +33,6 @@
 
 ## Server status
 
-* [Servers](server-status/servers.md)
 * [Uptimerobot stats](https://stats.uptimerobot.com/D6QpBHB11l)
 
 ## Guides
@@ -43,9 +45,6 @@
 
 * [AuroraOSS Site Policy](references/auroraoss-site-policy.md)
 * [Anonymous Logins](references/anonymous-logins.md)
-* [Aurora Store ToS](references/aurora-store-tos.md)
-* [Aurora Store Privacy Policy](references/aurora-store-privacy-policy.md)
-* [Aurora Store Disclaimer](references/aurora-store-disclaimer.md)
 
 ***
 

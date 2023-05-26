@@ -5,7 +5,7 @@ description: >-
 layout: landing
 ---
 
-# Aurora Store ToS
+# Terms of Service
 
 ### Accepting these Terms
 
@@ -17,7 +17,7 @@ We reserve the right to modify these Terms at any time. For instance, we may nee
 
 ### Privacy Policy
 
-We have a privacy policy covering the collection, use, and disclosure of user information, which can be found [here](aurora-store-privacy-policy.md).​
+We have a privacy policy covering the collection, use, and disclosure of user information, which can be found [here](privacy-policy.md).​
 
 ### Copyright Policy
 
@@ -25,7 +25,7 @@ We take intellectual property rights seriously, and by using a copyright policy 
 
 ### Disclaimer
 
-We have a disclaimer covering the use of our Service and the content within Aurora Store, which can be found [here](aurora-store-disclaimer.md).​
+We have a disclaimer covering the use of our Service and the content within Aurora Store, which can be found [here](disclaimer.md).​
 
 ### Third-Party Services
 

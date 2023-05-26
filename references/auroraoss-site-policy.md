@@ -30,7 +30,7 @@ We do not and have no means of collecting “[Sensitive Personal Information](ht
 We use your information for the following purposes:
 
 * We store IP addresses if our server deems the IP 'harmful', due to the fact that a few individuals spam (meaning sending requests every second) our servers with GET requests, which caused some complications in the past.
-* Furthermore, we use Usage Information and [Device Information](https://github.com/aurora-website/website\_v1/blob/source/src/faq/site-policy.md#device-information) to better understand how our Users use GitHub and to improve our Website and server stability.
+* Furthermore, we use Usage Information and Device Information to better understand how our Users use GitHub and to improve our Website and server stability.
 * In addition to that, we limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
 
 ### Our use of Cookies
