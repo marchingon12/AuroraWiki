@@ -26,11 +26,6 @@
   * [App Warden](troubleshooting-and-faqs/faqs/app-warden.md)
   * [Aurora Wallpapers](troubleshooting-and-faqs/faqs/aurora-wallpapers.md)
 
-## Spoofing
-
-* [Device](spoofing/device.md)
-* [Location](spoofing/location.md)
-
 ## Server status
 
 * [Uptimerobot stats](https://stats.uptimerobot.com/D6QpBHB11l)
