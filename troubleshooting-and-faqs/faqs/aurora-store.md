@@ -210,15 +210,15 @@ Yes, it can install both with or without root.
 
 ### Spoofing
 
-**Device**
+#### **Device**
 
 To spoof your device config, go to the **Spoofing** menu located at the sidebar and select your desired device config. Make sure to select one with the same architecture (e.g. arm64-v8a, armeabi-v7a, armeabi) and better yet, same Target Android Runtime APIs (API30: Android 11, API29: Android 10, API28: Android 9, etc.), otherwise you will experience problems with installing.
 
-**Language**
+#### **Language**
 
 Language spoofing allow you to change the content language displayed on Aurora Store. This does not mean the app language, rather the actual content like app titles, description, reviews & more. However, some strings are tied to your Google account if you are using your own account to log in, e.g. the Editor Choice section will be displayed in the language your account is set to (i.e. if your account country is set to Germany, the language displayed will be German).
 
-**Location**
+#### **Location**
 
 This is how Google determines the location of your account:
 
