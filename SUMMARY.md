@@ -42,6 +42,7 @@
 * [Aurora Store ToS](references/aurora-store-tos.md)
 * [Aurora Store Privacy Policy](references/aurora-store-privacy-policy.md)
 * [Aurora Store Disclaimer](references/aurora-store-disclaimer.md)
+* [Generating accounts](references/generating-accounts.md)
 
 ***
 

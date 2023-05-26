@@ -90,7 +90,7 @@ So while using Anonymous mode user are randomly connected to an Dummy account wi
 
 You can open issues on GitLab [here](https://gitlab.com/AuroraOSS/AuroraStore/issues), or you can do so by joining our [Telegram Support Group](https://t.me/AuroraSupport). Use `/bug` or `/suggestion` at the start of your message. If urgent, you can tag [@whyorean](https://t.me/whyorean).
 
-## Accounts
+### Accounts
 
 **Do I need to use my own Google account to log in?**
 
