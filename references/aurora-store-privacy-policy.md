@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Aurora Store Privacy Policy
 
 ### User data sent to Google by default

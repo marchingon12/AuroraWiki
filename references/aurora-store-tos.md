@@ -2,6 +2,7 @@
 description: >-
   These terms of service ("Terms") apply to your access and use of Aurora Store.
   Please read them carefully.
+layout: landing
 ---
 
 # Aurora Store ToS

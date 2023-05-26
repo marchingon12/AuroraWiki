@@ -1,5 +1,6 @@
 ---
 description: Disclaimer for Aurora Store
+layout: landing
 ---
 
 # Aurora Store Disclaimer

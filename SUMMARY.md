@@ -35,6 +35,12 @@
 * [version 2](roadmap/version-2.md)
 * [version 1](roadmap/version-1.md)
 
+## Guides
+
+* [Android App Types](guides/android-app-types.md)
+* [System App Guide](guides/system-app-guide.md)
+* [Generating accounts](guides/generating-accounts.md)
+
 ## References
 
 * [AuroraOSS Site Policy](references/auroraoss-site-policy.md)
@@ -42,7 +48,6 @@
 * [Aurora Store ToS](references/aurora-store-tos.md)
 * [Aurora Store Privacy Policy](references/aurora-store-privacy-policy.md)
 * [Aurora Store Disclaimer](references/aurora-store-disclaimer.md)
-* [Generating accounts](references/generating-accounts.md)
 
 ***
 
