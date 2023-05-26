@@ -6,7 +6,9 @@ description: Feel free to contact us for any unanswered questions or support!
 
 ### Our Support Groups
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Aurora Store Support</td><td></td><td></td><td></td><td><a href="https://t.me/AuroraSupport">https://t.me/AuroraSupport</a></td></tr><tr><td>Aurora Droid Support</td><td></td><td></td><td></td><td><a href="https://t.me/AuroraDroid">https://t.me/AuroraDroid</a></td></tr><tr><td>Aurora Off-Topic Group</td><td></td><td></td><td></td><td><a href="https://t.me/AuroraOT">https://t.me/AuroraOT</a></td></tr><tr><td>AuroraOSS</td><td></td><td></td><td></td><td><a href="https://t.me/AuroraOSS">https://t.me/AuroraOSS</a></td></tr></tbody></table>
+Join our support group chats on Telegram to get the latest news and info:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Aurora Store Support</td><td></td><td><a href="https://t.me/AuroraSupport">https://t.me/AuroraSupport</a></td></tr><tr><td align="center">Aurora Droid Support</td><td></td><td><a href="https://t.me/AuroraDroid">https://t.me/AuroraDroid</a></td></tr><tr><td align="center">Aurora Off-Topic Group</td><td></td><td><a href="https://t.me/AuroraOT">https://t.me/AuroraOT</a></td></tr><tr><td align="center">AuroraOSS Discussions</td><td></td><td><a href="https://t.me/AuroraOSS">https://t.me/AuroraOSS</a></td></tr></tbody></table>
 
 ### The Team
 
